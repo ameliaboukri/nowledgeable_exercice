@@ -1,0 +1,7 @@
+type: InputOutputExercice
+studentId: 12366
+activityId: 185383
+outputTests:
+    - { command: 'git status', includes: ['On branch dev'] }
+activityNumber: 9
+submissionUrl: 'https://nowledgeable.com/api/assessed-answer'
